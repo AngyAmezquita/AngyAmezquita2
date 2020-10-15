@@ -1,0 +1,26 @@
+cuerpo {
+    padding-left : 05 % ;
+    padding-right : 0 % ;
+    padding-top : 32 px ;
+    alinear texto : justificado;
+    altura de línea : 100 % ;
+}
+
+botón {
+  pantalla : bloque;
+  relleno : 02 px ;
+  ancho : 100 px ;
+  margen : automático;
+}
+. circular - cuadrado {
+  radio del borde superior izquierdo : 150 %  150 %
+  border-top-right-radius: 150 %  150 % ;
+  radio de borde inferior derecho : 150 %  150 % ;
+  radio del borde inferior izquierdo : 150 %  150 % ;
+}
+. circular-square {
+  border-top-left-radius : 100 %  100 % ;
+  border-top-right-radius : 100 %  100 % ;
+  border-bottom-right-radius : 100 %  100 % ;
+  border-bottom-left-radius : 100 %  100 % ;
+}
